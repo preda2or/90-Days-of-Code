@@ -130,7 +130,7 @@ To mark the checkbox, change [ ] to [x].
 33. [ ] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [x] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
 35. [x] [https://www.codechef.com/problems/CDX1604](https://www.codechef.com/problems/CDX1604)
-36. [ ] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
+36. [x] [https://goo.gl/u1ZFt7](https://goo.gl/u1ZFt7)
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [x] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [x] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
