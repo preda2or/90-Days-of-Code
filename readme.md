@@ -114,7 +114,7 @@ To mark the checkbox, change [ ] to [x].
 17. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 18. [ ] [http://www.spoj.com/problems/QUEEN/](http://www.spoj.com/problems/QUEEN/)
 19. [x] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
-20. [ ] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
+20. [x] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
@@ -145,8 +145,8 @@ To mark the checkbox, change [ ] to [x].
 48. [ ] [http://www.spoj.com/problems/CRSCNTRY/](http://www.spoj.com/problems/CRSCNTRY/)
 49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
-51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
-52. [ ] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
+51. [x] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
+52. [x] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 53. [ ] [http://www.spoj.com/problems/ADAJOBS/](http://www.spoj.com/problems/ADAJOBS/)
 
 
