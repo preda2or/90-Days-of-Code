@@ -134,7 +134,7 @@ To mark the checkbox, change [ ] to [x].
 37. [ ] [http://www.spoj.com/problems/STRMATCH/](http://www.spoj.com/problems/STRMATCH/)
 38. [x] [https://goo.gl/NnEu73](https://goo.gl/NnEu73)
 39. [x] [https://www.hackerrank.com/challenges/lonely-integer/problem](https://www.hackerrank.com/challenges/lonely-integer/problem)
-40. [ ] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
+40. [x] [https://www.codechef.com/problems/FIRESC](https://www.codechef.com/problems/FIRESC)
 41. [x] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [x] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
 43. [x] [https://goo.gl/fvbDS5](https://goo.gl/fvbDS5)
