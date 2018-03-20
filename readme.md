@@ -116,7 +116,7 @@ To mark the checkbox, change [ ] to [x].
 19. [x] [http://www.spoj.com/problems/HORRIBLE/](http://www.spoj.com/problems/HORRIBLE/)
 20. [x] [http://www.spoj.com/problems/PAIRS1/](http://www.spoj.com/problems/PAIRS1/)
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
-22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
+22. [x] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
 24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
 25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
