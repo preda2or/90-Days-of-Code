@@ -192,7 +192,7 @@ To mark the checkbox, change [ ] to [x].
 38. [ ] [http://codeforces.com/problemset/problem/633/C](http://codeforces.com/problemset/problem/633/C)
 39. [ ] [https://goo.gl/GcBqqy](https://goo.gl/GcBqqy)
 40. [ ] [https://goo.gl/poJyjN](https://goo.gl/poJyjN)
-41. [ ] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
+41. [x] [http://www.spoj.com/problems/DQUERY/](http://www.spoj.com/problems/DQUERY/)
 42. [ ] [http://codeforces.com/problemset/problem/777/D](http://codeforces.com/problemset/problem/777/D)
 43. [ ] [http://www.spoj.com/problems/MIXTURES/](http://www.spoj.com/problems/MIXTURES/)
 44. [ ] [https://www.hackerrank.com/challenges/whats-next/problem](https://www.hackerrank.com/challenges/whats-next/problem)
