@@ -119,7 +119,7 @@ To mark the checkbox, change [ ] to [x].
 22. [x] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
 24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
-25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
+25. [x] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
 26. [ ] [https://goo.gl/JHSdm1](https://goo.gl/JHSdm1)
 27. [ ] [https://goo.gl/viMSCX](https://goo.gl/viMSCX)
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
