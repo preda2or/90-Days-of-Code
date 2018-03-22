@@ -107,7 +107,7 @@ To mark the checkbox, change [ ] to [x].
 10. [x] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
 11. [x] [http://www.spoj.com/problems/GERGOVIA/](http://www.spoj.com/problems/GERGOVIA/)
 12. [ ] [http://codeforces.com/problemset/problem/793/C](http://codeforces.com/problemset/problem/793/C)
-13. [ ] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
+13. [x] [http://www.spoj.com/problems/COINS/](http://www.spoj.com/problems/COINS/)
 14. [ ] [https://goo.gl/h7a3mN](https://goo.gl/h7a3mN)
 15. [ ] [https://goo.gl/MDTg6s](https://goo.gl/MDTg6s)
 16. [ ] [http://www.spoj.com/problems/TOPOSORT/](http://www.spoj.com/problems/TOPOSORT/)
