@@ -154,7 +154,7 @@ To mark the checkbox, change [ ] to [x].
 
 1. [ ] [http://www.spoj.com/problems/RENT/](http://www.spoj.com/problems/RENT/)
 2. [ ] [https://www.codechef.com/DCL1501/problems/DCL2015E/	[2D BIT]](https://www.codechef.com/DCL1501/problems/DCL2015E/)
-3. [ ] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
+3. [x] [http://codeforces.com/problemset/problem/774/D](http://codeforces.com/problemset/problem/774/D)
 4. [ ] [http://www.spoj.com/problems/KNAPSACK/](http://www.spoj.com/problems/KNAPSACK/)
 5. [ ] [http://www.spoj.com/problems/GCPC11J/](http://www.spoj.com/problems/GCPC11J/)
 6. [ ] [https://goo.gl/yLirva](https://goo.gl/yLirva)
@@ -182,7 +182,7 @@ To mark the checkbox, change [ ] to [x].
 28. [ ] [http://codeforces.com/problemset/problem/431/E](http://codeforces.com/problemset/problem/431/E)
 29. [ ] [http://codeforces.com/problemset/problem/898/C](http://codeforces.com/problemset/problem/898/C)
 30. [ ] [https://www.codechef.com/problems/WTHINGS](https://www.codechef.com/problems/WTHINGS)
-31. [ ] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
+31. [x] [http://www.spoj.com/problems/FACEFRND/](http://www.spoj.com/problems/FACEFRND/)
 32. [ ] [https://goo.gl/DWyiui	[persistent segTree]](https://goo.gl/DWyiui)
 33. [ ] [https://goo.gl/5MwpVj	[trie]](https://goo.gl/5MwpVj)
 34. [ ] [http://www.spoj.com/problems/LABYR1/](http://www.spoj.com/problems/LABYR1/)
